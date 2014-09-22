@@ -9,15 +9,18 @@
 *  -l  = large
 
 ## Install
+Grab the css partial from github and include it in your project or alternatively
+you can install it via npm:
 ```
-npm install --save-dev
+npm install --save-dev css-npm-template
 ```
-or download the css on github and include in your project.
+View on [npm](https://www.npmjs.org/package/css-npm-template)
+
 
 ## File Size
 
+1: css*
 
-## The Code
 ```
 ```
 
