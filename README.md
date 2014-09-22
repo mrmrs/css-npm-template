@@ -20,8 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-npm-template)
 ## File Size
 
 1: css*
-
-```
+ 
+1minified and gzipped
 ```
 
 ## Author
