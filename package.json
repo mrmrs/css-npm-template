@@ -30,8 +30,6 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.8.10",
-    "gulp-autoprefixer": "^1.0.0",
     "tachyons-cli": "^0.3.2"
   }
 }
